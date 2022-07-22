@@ -1,0 +1,97 @@
+.carousel-caption{
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    left:0;
+    bottom: 0;
+    padding-bottom: 2rem;
+    padding-left: 2rem;
+}
+
+.team .col-lg-4 {
+    padding-top: 3rem;
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
+.section-divider{ 
+    margin: 3rem 0;
+}
+
+.footer-section {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  color: #5a5a5a;
+}
+
+@media (min-width: 1200px) {
+  .feature-heading {
+   
+  }
+}
+
+@media (max-width: 540px) {
+    .carouselImg {
+        display: none;
+    }
+    
+    .team {
+        margin-top: 2rem;
+    }
+}
+blog-header{
+    margin-top: 7rem;
+    max-width: 700px;
+}
+
+@media(max-width: 768px){
+    .blog-header{
+        margin-top: 8rem;
+    }
+}
+.container{
+    max-width: 960px;
+}
+.team{
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+    margin-bottom: 2rem;
+}
+.card-deck .card{
+    min-width: 220px;
+    
+}
+.card-text{
+    padding-top: 1rem;
+}
+.card-block{
+    min-height: 220px;
+}
+
+.active{
+    border-bottom: 1px solid black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
